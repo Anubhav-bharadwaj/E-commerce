@@ -14,13 +14,15 @@ It showcases 12 products across four categories — Living, Ceramics, Textiles, 
 ---
 
 ## Project Structure
+
+```
 ecommerce/
 │
-├── index.html # Main structure 
-├── style.css # All styling 
-├── script.js # Functionality & interactivity
+├── index.html      # Main structure
+├── style.css       # All styling
+├── script.js       # Functionality & interactivity
 ├── README.md
-
+```
 ---
 
 ## Credits
