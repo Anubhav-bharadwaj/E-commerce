@@ -1,7 +1,7 @@
 # MAISON — Curated Objects E-Commerce Website
 
 A luxury home goods e-commerce website built with pure HTML, CSS, and vanilla JavaScript.  
-No frameworks, no build tools.
+No frameworks, no build tools — just clean, structured frontend code.
 
 ---
 
@@ -15,9 +15,11 @@ It showcases 12 products across four categories — Living, Ceramics, Textiles, 
 
 ## Project Structure
 ecommerce/
-├── index.html
+│
+├── index.html # Main structure 
+├── style.css # All styling 
+├── script.js # Functionality & interactivity
 ├── README.md
-
 
 ---
 
